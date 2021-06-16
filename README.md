@@ -19,6 +19,7 @@
          <img alt="Qries" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
          width=150" height="70">
  </a>
+  <br>
  [www.linkedin.com/in/ramzy-mohammad]
 
 
