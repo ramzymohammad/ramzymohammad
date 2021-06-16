@@ -4,7 +4,6 @@
 
 ## I'm a man who are very interested in data.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤹🏼‍♀️
 - 👯 I’m looking to collaborate with other Data Enthusiast
 - 🥅 2021 Goals: Becoming Professional Data Scientist and analys
@@ -13,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ramzymohammad | LinkedIn" width="22px" src="www.linkedin.com/in/ramzy-mohammad" />][linkedin]
+[<img align="left" alt="ramzymohammad | LinkedIn" width="22px" src="www.linkedin.com/in/ramzy-mohammad" />][linkedin][webdevplaylist]
 
 <br />
 
